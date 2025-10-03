@@ -1,0 +1,11 @@
+{
+  "name": "ride2md-assist",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "dependencies": {
+    "express": "^4.19.2",
+    "raw-body": "^2.5.2"
+  }
+}
